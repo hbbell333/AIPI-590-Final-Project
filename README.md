@@ -18,4 +18,4 @@ Before running a full cycle of critique and revision, the model first evaluates 
 During critique and revision the model is prompted to first generate a critique of it's base response and then to revise it based on the critique. The model's critique is only based on the principles that were flagged in step 2. The model can repeat steps 2-3 any number of times, stopping either when no principle falls below the threshold, or after a user-defined (though often one round is sufficient).  
 
 
-![alt text]([https://github.com/hbbell333/AIPI-590-Final-Project/blob/main/reflect_graphic.png "Logo Title Text 1"](https://github.com/hbbell333/AIPI-590-Final-Project/blob/main/inference_graphic.png))
+![alt text](https://github.com/hbbell333/AIPI-590-Final-Project/blob/main/inference_graphic.png)

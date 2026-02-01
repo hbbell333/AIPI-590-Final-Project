@@ -1,6 +1,7 @@
 # Demo of Reflect
 
 **Reflect**: In-context alignment through model self-critique and revision.
+
 [Paper available here](https://arxiv.org/abs/2601.18730)
 
 

@@ -1,6 +1,7 @@
-# AIPI-590-Final-Project
+# Demo of Reflect
 
 **Reflect**: In-context alignment through model self-critique and revision.
+
 
 ![alt text](https://github.com/hbbell333/AIPI-590-Final-Project/blob/main/reflect_graphic.png "Logo Title Text 1")
 
